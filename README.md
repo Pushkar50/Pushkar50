@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Pushkar Prashant</h1>
 <h3 align="center">A frontend developer, digital marketing consultant and a vivid learner</h3>
 
-<p align="left"> <a href="https://twitter.com/pushkar_2410" target="blank"><img src="https://img.shields.io/twitter/follow/pushkar_2410?logo=twitter&style=for-the-badge" alt="pushkar_2410" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
