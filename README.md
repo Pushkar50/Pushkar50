@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-10943
-Fork on GitHub
-2753
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Pushkar Prashant</h1>
 <h3 align="center">A frontend developer and vivid learner from India</h3>
 
